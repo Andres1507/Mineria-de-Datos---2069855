@@ -1,1 +1,1 @@
-
+Hay comits mas recientes de la semana 4 en esta practica debido a que ajuste la gestion de las carpetas y los archivos con el fin de poder ejecutar los scripts de las practicas directamente descargando el ZIP del repositorio, mas que nada por las rutas relativas y como rastrea las carpetas y los archivos del dataset
