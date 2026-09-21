@@ -1,0 +1,1 @@
+** Existen comits mas recientes de la semana 4, 5 y 6 en las practicas 1, 2 y 3 debido a que ajuste la gestion de las carpetas y los archivos con el fin de poder ejecutar los scripts de las practicas directamente descargando el ZIP del repositorio, mas que nada por las rutas relativas y como rastrea las carpetas y los archivos del dataset
