@@ -10,7 +10,7 @@ carpeta_script = Path(__file__).resolve().parent
 
 archivo_excel = (
     carpeta_script.parents[1]
-    / "02 Estadistica Descriptiva"
+    / "Practica 2"
     / "doc"
     / "resultados"
     / "5 - Estabilidad y evolucion individual de los equipos.xlsx"
