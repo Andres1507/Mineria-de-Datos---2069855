@@ -64,9 +64,10 @@ def main():
 
     verificar_dataset(df_ordenado)
 
+
    
 
 
 if __name__ == "__main__":
     main()
-    input()
+    input("\n\t---> ")
